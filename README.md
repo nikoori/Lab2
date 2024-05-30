@@ -36,10 +36,10 @@ If you miss the lab and work on this after, you should use this URL though.
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
   that you are now on the `task_1` branch.
 - [X] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
-- [ ] Complete the TASK 1 TODO and commit your changes to this file (checking off the
+- [X] Complete the TASK 1 TODO and commit your changes to this file (checking off the
 completed items so far) and `DataTypes.java` (remove the word TODO and your bug fix).
   - talk to those around you or your TA, then see the hints at the bottom of the readme if you get stuck.
-- [ ] Now, we'll merge the `task_1` branch back into `main`. When merging,
+- [X] Now, we'll merge the `task_1` branch back into `main`. When merging,
 you need to be currently on the branch you are trying to merge into, so we'll first checkout the main
 branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`

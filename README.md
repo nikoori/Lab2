@@ -45,17 +45,17 @@ branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
   - Terminal: `git checkout main`
 Note: everything we've done has been local to our repository and have not pushed anything yet.
-- [ ] We are back on `main`, so we can now do the merge and complete our work!
+- [X] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
 You should now see the changes you had made are also in the `main` branch.
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
-- [ ] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change (just right on main is fine;
   no need to branch for this little step), then push your code. Check GitHub to ensure you can
   see your changes.
